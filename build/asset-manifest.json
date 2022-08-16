@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LiorPortfolio/static/css/main.7c5190bc.css",
+    "main.js": "/LiorPortfolio/static/js/main.220f2128.js",
+    "static/js/787.ed401a87.chunk.js": "/LiorPortfolio/static/js/787.ed401a87.chunk.js",
+    "static/media/helvetica-neu.ttf": "/LiorPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/LiorPortfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/LiorPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/l.png": "/LiorPortfolio/static/media/l.57fae71c422a0ce5d7dd.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/LiorPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/LiorPortfolio/index.html",
+    "main.7c5190bc.css.map": "/LiorPortfolio/static/css/main.7c5190bc.css.map",
+    "main.220f2128.js.map": "/LiorPortfolio/static/js/main.220f2128.js.map",
+    "787.ed401a87.chunk.js.map": "/LiorPortfolio/static/js/787.ed401a87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5190bc.css",
+    "static/js/main.220f2128.js"
+  ]
+}
