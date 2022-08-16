@@ -1,8 +1,8 @@
 {
-  "homepage": "https://idanzhavi09.github.io/LiorPortfolio/",
+  "homepage": ".",
   "name": "lior-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
