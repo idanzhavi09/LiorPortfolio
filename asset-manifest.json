@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/LiorPortfolio/public/index.html/static/css/main.cf7517f0.css",
-    "main.js": "/LiorPortfolio/public/index.html/static/js/main.277077e7.js",
-    "static/js/787.ed401a87.chunk.js": "/LiorPortfolio/public/index.html/static/js/787.ed401a87.chunk.js",
-    "static/media/helvetica-neu.ttf": "/LiorPortfolio/public/index.html/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/LiorPortfolio/public/index.html/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/LiorPortfolio/public/index.html/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/l.png": "/LiorPortfolio/public/index.html/static/media/l.57fae71c422a0ce5d7dd.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/LiorPortfolio/public/index.html/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/LiorPortfolio/public/index.html/index.html",
-    "main.cf7517f0.css.map": "/LiorPortfolio/public/index.html/static/css/main.cf7517f0.css.map",
-    "main.277077e7.js.map": "/LiorPortfolio/public/index.html/static/js/main.277077e7.js.map",
-    "787.ed401a87.chunk.js.map": "/LiorPortfolio/public/index.html/static/js/787.ed401a87.chunk.js.map"
+    "main.css": "/LiorPortfolio/static/css/main.7c5190bc.css",
+    "main.js": "/LiorPortfolio/static/js/main.cbcf3d2d.js",
+    "static/js/787.ed401a87.chunk.js": "/LiorPortfolio/static/js/787.ed401a87.chunk.js",
+    "static/media/helvetica-neu.ttf": "/LiorPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/LiorPortfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/LiorPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/l.png": "/LiorPortfolio/static/media/l.57fae71c422a0ce5d7dd.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/LiorPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/LiorPortfolio/index.html",
+    "main.7c5190bc.css.map": "/LiorPortfolio/static/css/main.7c5190bc.css.map",
+    "main.cbcf3d2d.js.map": "/LiorPortfolio/static/js/main.cbcf3d2d.js.map",
+    "787.ed401a87.chunk.js.map": "/LiorPortfolio/static/js/787.ed401a87.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf7517f0.css",
-    "static/js/main.277077e7.js"
+    "static/css/main.7c5190bc.css",
+    "static/js/main.cbcf3d2d.js"
   ]
 }
